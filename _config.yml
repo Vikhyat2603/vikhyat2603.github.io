@@ -48,11 +48,12 @@ round-avatar: true
 # Uncomment the links you want to show and add your information to each one.
 # If you don't want to show a link to an RSS feed, set rss to "false".
 social-network-links:
+  rss: true
   email: "vikhyat2603@gmail.com"
   linkedin: vikhyat-agarwal-bba30618b
   github: Vikhyat2603
   stackoverflow: "8663663/vikhyat-agarwal"
-  rss: true
+  
 #  facebook: deanattali
 #  twitter: daattali
 #  reddit: yourname
