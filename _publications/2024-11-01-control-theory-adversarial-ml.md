@@ -1,7 +1,7 @@
 ---
 title: "Introduction to adversarial machine learning through control theoretic formulations"
 collection: publications
-category: manuscripts
+category: conferences
 permalink: /publication/2024-11-01-control-theory-adversarial-ml
 excerpt: 'About Control Theory & Adversarial Machine Learning'
 date: 2024-11-01
