@@ -5,7 +5,7 @@ category: conferences
 permalink: /publication/2024-11-01-control-theory-adversarial-ml
 excerpt: 'About Control Theory & Adversarial Machine Learning'
 date: 2024-11-01
-venue: 'Joint Mathematics Meetings 2025'
+venue: 'Presented in PME Contributed Sessions on Research by Undergraduates at Joint Mathematics Meetings 2025'
 slidesurl: 'http://academicpages.github.io/files/slides3.pdf'
 paperurl: 'https://meetings.ams.org/math/jmm2025/meetingapp.cgi/Paper/46316'
 citation: 'Vikhyat Agarwal, Kritim K. Rijal, and Caitlin Sales. "Introduction to adversarial machine learning through control theoretic formulations." <i>Joint Mathematics Meetings </i> (2025).'

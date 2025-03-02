@@ -7,9 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-I'm an undergraduate student pursuing a Bachelor of Science in Computer Science and Mathematics at [University of Richmond](https://www.richmond.edu/).
+I'm an undergraduate student pursuing a Bachelor of Science in Computer Science and Mathematics at University of Richmond.
 
-I'm interested in geometric deep learning, AI interpretability, and machine learning theory.
+I'm interested in geometric deep learning, graph machine learning, AI interpretability, and machine learning theory.
 
 # Education
 <!-- ====== -->
