@@ -3,7 +3,7 @@ title: "Introduction to adversarial machine learning through control theoretic f
 collection: publications
 category: conferences
 permalink: /publication/2024-11-01-control-theory-adversarial-ml
-excerpt: 'About Control Theory & Adversarial Machine Learning'
+excerpt: 'Formulating and unifying concepts from adversarial machine learning in a control theoretic framework'
 date: 2024-11-01
 venue: 'Presented in PME Contributed Sessions on Research by Undergraduates at Joint Mathematics Meetings 2025'
 slidesurl: 'http://academicpages.github.io/files/slides3.pdf'
